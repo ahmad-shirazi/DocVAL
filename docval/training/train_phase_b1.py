@@ -403,7 +403,7 @@ def train_phase_b1(config: B1TrainingConfig):
         eval_steps=config.eval_steps,
         save_steps=config.save_steps,
         save_total_limit=config.save_total_limit,
-        evaluation_strategy=config.evaluation_strategy,
+        eval_strategy=config.evaluation_strategy,
         save_strategy=config.save_strategy,
         load_best_model_at_end=config.load_best_model_at_end,
         metric_for_best_model=config.metric_for_best_model,
