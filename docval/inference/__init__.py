@@ -1,5 +1,6 @@
 """Inference module for DocVAL"""
-from .deploy import DocVALInference
+# Inference classes can be imported directly from their respective modules
+# from .evaluate_phase_c import PhaseC
 
-__all__ = ['DocVALInference']
+__all__ = []
 

@@ -11,7 +11,6 @@ __author__ = "DocVAL Team"
 from .config import DocVALConfig
 from .models import TeacherVLM, StudentVLM, TextDetector
 from .validation import VALSystem, VALFilter, VALVerifier
-from .inference import DocVALInference
 
 __all__ = [
     'DocVALConfig',
@@ -21,6 +20,5 @@ __all__ = [
     'VALSystem',
     'VALFilter',
     'VALVerifier',
-    'DocVALInference'
 ]
 
