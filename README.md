@@ -151,29 +151,3 @@ python -m docval.scripts.check_progress      # Check status
 ![Performance Results](imgs/results.png)
 
 *DocVAL achieves competitive performance on document VQA benchmarks with efficient inference. The student model (Gemma 3-12B) successfully learns spatial reasoning from teacher-generated CoT data with VAL filtering.*
-
-## Citation
-
-If you use DocVAL in your research, please cite:
-
-```bibtex
-@article{docval2025,
-  title={DocVAL: Visual Answer Localization for Document VQA},
-  author={Your Name},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
-}
-```
-
-## License
-
-[Your License Here]
-
-## Contact
-
-- GitHub: [@your-username](https://github.com/your-username)
-- Paper: [arXiv link]
-
----
-
-**Built for efficient document understanding**
