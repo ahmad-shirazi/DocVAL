@@ -42,6 +42,25 @@ If you assumed Phase B1 is complete, you can create a dummy model or use a pre-t
 
 DB-ResNet50 from Phase A (for validation)
 
+### 4. Hardware Requirements
+
+**Recommended (Full Fine-Tuning)**:
+- GPU: **2x H100 80GB** (multi-GPU training)
+- RAM: 72GB+
+- Storage: 100GB+ (for models + corrections dataset)
+- Batch Size: 128 (64 per GPU)
+- Epochs per Iteration: 2
+- Training Time: ~2-4 hours per iteration
+
+**Alternative (LoRA Fine-Tuning)**:
+- GPU: 1x A100 (40GB) or RTX 3090 (24GB)
+- RAM: 32GB+
+- Storage: 50GB+
+- Batch Size: 16-32
+- Training Time: ~1-2 hours per iteration
+
+**Note**: Phase B2 iterative training is more memory-intensive due to dynamic correction dataset generation and VAL feedback integration.
+
 ## How It Works
 
 ### The Iterative Loop

@@ -31,19 +31,24 @@ Get your token from: https://huggingface.co/settings/tokens
 
 ### 3. Hardware Requirements
 
-**Recommended**:
-- GPU: A100 (80GB) or H100
-- RAM: 64GB+
+**Recommended (Full Fine-Tuning)**:
+- GPU: **2x H100 80GB** (multi-GPU training)
+- RAM: 78GB+
 - Storage: 100GB+
+- Batch Size (effective): 128
+- Training Time: ~6-8 hours for 3 epochs
 
-**Minimum** (with 8-bit quantization):
-- GPU: RTX 3090 (24GB) or A10
+**Alternative (LoRA Fine-Tuning)**:
+- GPU: 1x A100 (40GB) or RTX 3090 (24GB)
 - RAM: 32GB+
 - Storage: 50GB+
+- Batch Size: 16-32
+- Training Time: ~3-4 hours
 
 **Model Size**:
-- Gemma 3-12B: ~24GB (FP32), ~12GB (FP16), ~6GB (8-bit)
-- With LoRA: Only ~1-2% parameters are trainable
+- Gemma 3-12B: ~24GB (FP32), ~12GB (FP16)
+- Full fine-tuning requires 2x 80GB GPUs for optimal performance
+- With LoRA: Only ~1-2% parameters trainable (fits in single 24GB GPU)
 
 ## Installation
 
@@ -136,6 +141,82 @@ config = B1TrainingConfig(
 )
 
 train_phase_b1(config)
+```
+
+### Method 4: Multi-GPU Training (2x H100 80GB)
+
+For full fine-tuning with **2x H100 80GB GPUs**:
+
+```bash
+# Set visible GPUs
+export CUDA_VISIBLE_DEVICES=0,1
+
+# Run with PyTorch Distributed Data Parallel (DDP)
+torchrun --nproc_per_node=2 \
+    -m docval.training.train_phase_b1 \
+    --model google/gemma-3-12b-it \
+    --train-data docval/data/phase_a_output/filtered/D3_train.json \
+    --val-data docval/data/phase_a_output/filtered/D4_val.json \
+    --image-dir docval/data/cot_data \
+    --output-dir docval/models/student_b1_h100 \
+    --epochs 3 \
+    --batch-size 64 \
+    --grad-accum 1 \
+    --lr 2e-4 \
+    --weight-decay 0.01 \
+    --warmup-steps 500 \
+    --max-length 2048 \
+    --bf16 \
+    --no-lora
+```
+
+**Parameters for 2x H100 80GB**:
+- `--nproc_per_node=2`: Use 2 GPUs
+- `--batch-size 64`: Per-device batch size (effective: 128 total)
+- `--lr 2e-4`: Higher learning rate for full fine-tuning
+- `--max-length 2048`: Sequence length as per paper
+- `--no-lora`: Full fine-tuning (all parameters)
+- Memory usage: ~78GB per GPU
+- Training time: ~6-8 hours for 3 epochs
+
+**Alternative: DeepSpeed ZeRO-3 (for even larger batches)**:
+
+```bash
+# Create deepspeed config
+cat > ds_config.json << 'EOF'
+{
+  "train_micro_batch_size_per_gpu": 64,
+  "gradient_accumulation_steps": 1,
+  "optimizer": {
+    "type": "AdamW",
+    "params": {
+      "lr": 2e-4,
+      "weight_decay": 0.01
+    }
+  },
+  "fp16": {
+    "enabled": false
+  },
+  "bf16": {
+    "enabled": true
+  },
+  "zero_optimization": {
+    "stage": 2,
+    "offload_optimizer": {
+      "device": "none"
+    }
+  }
+}
+EOF
+
+# Run with DeepSpeed
+deepspeed --num_gpus=2 \
+    -m docval.training.train_phase_b1 \
+    --deepspeed ds_config.json \
+    --model google/gemma-3-12b-it \
+    --train-data docval/data/phase_a_output/filtered/D3_train.json \
+    --val-data docval/data/phase_a_output/filtered/D4_val.json \
+    --output-dir docval/models/student_b1_h100
 ```
 
 ## Training Configuration
