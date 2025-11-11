@@ -1,0 +1,182 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+envval/
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large datasets)
+docval/data/cot_data/CORD/*.png
+docval/data/cot_data/DocVQA/**/*.jpg
+docval/data/cot_data/DocVQA/**/*.png
+docval/data/cot_data/FUNSD/*.png
+docval/data/cot_data/SROIE/**/*.jpg
+docval/data/cot_data/SROIE/**/*.txt
+docval/data/cot_data/VisualMRC/**/*.png
+docval/data/cot_data/VisualMRC/**/*.arrow
+
+# Keep directory structure but ignore images
+!docval/data/cot_data/*/.gitkeep
+!docval/data/cot_data/*/README.md
+
+# Generated CoT data (large files - excluded from repo)
+docval/data/phase_a_output/*.json
+docval/data/phase_a_output/filtered/*.json
+!docval/data/phase_a_output/README.md
+
+# Model checkpoints (large files)
+docval/models/student_b1_mac/
+docval/models/student_b2_mac/
+docval/models/student_b1/
+docval/models/student_b2/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Results
+docval/results/
+results/
+outputs/
+
+# Logs
+*.log
+logs/
+wandb/
+
+# Backups
+*_backup.json
+*.bak
+
+# Temporary files
+*.tmp
+.cache/
+.pytest_cache/
+
+# OS-specific
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Documentation builds
+docs/_build/
+site/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Distribution / packaging
+.Python
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# PDFs (except documentation)
+*.pdf
+!docs/**/*.pdf
+
+# Large text files
+docval_implementation_prompt.md
+DocVal_2_CVPR*.pdf

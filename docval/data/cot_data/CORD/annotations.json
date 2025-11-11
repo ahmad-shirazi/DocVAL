@@ -1,0 +1,338 @@
+[
+  {
+    "image_id": "cord_00000",
+    "image_file": "receipt_00000.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00002",
+    "image_file": "receipt_00002.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00003",
+    "image_file": "receipt_00003.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00005",
+    "image_file": "receipt_00005.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00007",
+    "image_file": "receipt_00007.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00008",
+    "image_file": "receipt_00008.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00009",
+    "image_file": "receipt_00009.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00010",
+    "image_file": "receipt_00010.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00011",
+    "image_file": "receipt_00011.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00018",
+    "image_file": "receipt_00018.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00030",
+    "image_file": "receipt_00030.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00032",
+    "image_file": "receipt_00032.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00036",
+    "image_file": "receipt_00036.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00037",
+    "image_file": "receipt_00037.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00038",
+    "image_file": "receipt_00038.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00042",
+    "image_file": "receipt_00042.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00043",
+    "image_file": "receipt_00043.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00044",
+    "image_file": "receipt_00044.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00048",
+    "image_file": "receipt_00048.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00050",
+    "image_file": "receipt_00050.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00051",
+    "image_file": "receipt_00051.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00053",
+    "image_file": "receipt_00053.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00054",
+    "image_file": "receipt_00054.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00056",
+    "image_file": "receipt_00056.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00058",
+    "image_file": "receipt_00058.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00060",
+    "image_file": "receipt_00060.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00063",
+    "image_file": "receipt_00063.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00064",
+    "image_file": "receipt_00064.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00065",
+    "image_file": "receipt_00065.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00067",
+    "image_file": "receipt_00067.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00068",
+    "image_file": "receipt_00068.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00071",
+    "image_file": "receipt_00071.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00072",
+    "image_file": "receipt_00072.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00076",
+    "image_file": "receipt_00076.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00077",
+    "image_file": "receipt_00077.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00078",
+    "image_file": "receipt_00078.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00079",
+    "image_file": "receipt_00079.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00080",
+    "image_file": "receipt_00080.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00083",
+    "image_file": "receipt_00083.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00085",
+    "image_file": "receipt_00085.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00087",
+    "image_file": "receipt_00087.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00089",
+    "image_file": "receipt_00089.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00090",
+    "image_file": "receipt_00090.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00092",
+    "image_file": "receipt_00092.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00093",
+    "image_file": "receipt_00093.png",
+    "question": "What is the subtotal?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00096",
+    "image_file": "receipt_00096.png",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00097",
+    "image_file": "receipt_00097.png",
+    "question": "What is the menu number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "cord_00099",
+    "image_file": "receipt_00099.png",
+    "question": "What is the store name?",
+    "answer": "",
+    "bbox": null
+  }
+]

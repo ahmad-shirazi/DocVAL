@@ -1,0 +1,104 @@
+# Model-Specific Token Limits Configuration
+# These are the maximum output tokens for generation per model
+
+# TEACHER MODELS (for Phase A CoT generation)
+teacher_models:
+  # Google Gemini Models
+  gemini-2.5-pro:
+    max_tokens: 8192  # Up to 65K possible, but 8K recommended for quality
+    context_window: 1048576  # 1M input tokens
+    
+  gemini-2.5-flash:
+    max_tokens: 8192
+    context_window: 1048576
+  
+  # OpenAI Models
+  gpt-4o:
+    max_tokens: 16384  # 16K output limit
+    context_window: 128000  # 128K input
+    
+  gpt-5:
+    max_tokens: 16384  # Estimated (not released yet)
+    context_window: 200000  # Estimated
+  
+  # Anthropic Models
+  claude-4.5-sonnet:
+    max_tokens: 8192  # 8K output limit
+    context_window: 200000  # 200K input
+  
+  # Open-Source Models
+  qwen3-vl-235b-a22b-thinking:
+    max_tokens: 8192
+    context_window: 32768  # 32K typical
+    
+  llama4-400b-a17b:
+    max_tokens: 8192  # Estimated
+    context_window: 131072  # 128K typical for Llama
+
+
+# STUDENT MODELS (for training and deployment)
+student_models:
+  # Google Gemma Models
+  google/gemma-3-12b:
+    max_tokens: 8192
+    context_window: 8192
+    
+  google/gemma-3-4b:
+    max_tokens: 8192
+    context_window: 8192
+  
+  # Qwen Models
+  qwen/qwen3-vl-8b-thinking:
+    max_tokens: 8192
+    context_window: 32768  # 32K context window
+  
+  # InternVL Models
+  OpenGVLab/internvl3.5-8b:
+    max_tokens: 8192
+    context_window: 8192
+    
+  OpenGVLab/internvl3.5-14b:
+    max_tokens: 8192
+    context_window: 8192
+  
+  # Meta Llama Models
+  meta-llama/Llama-3.2-11B-Vision:
+    max_tokens: 8192  # Conservative for generation
+    context_window: 131072  # 128K context window
+
+
+# RECOMMENDED SETTINGS BY USE CASE
+use_cases:
+  # For highest quality CoT (teacher)
+  high_quality_teacher:
+    model: gemini-2.5-pro
+    max_tokens: 8192
+    
+  # For fast/cost-effective (teacher)
+  fast_teacher:
+    model: gemini-2.5-flash
+    max_tokens: 4096
+  
+  # For best student performance
+  best_student:
+    model: google/gemma-3-12b
+    max_tokens: 8192
+  
+  # For fast student inference
+  fast_student:
+    model: google/gemma-3-4b
+    max_tokens: 4096
+  
+  # For long document context (student)
+  long_context_student:
+    model: meta-llama/Llama-3.2-11B-Vision
+    max_tokens: 8192
+
+
+# NOTES:
+# - max_tokens is for OUTPUT/GENERATION only
+# - context_window is for INPUT (prompt + image embeddings)
+# - For DocVQA, typical CoT outputs are 500-2000 tokens
+# - Using 8192 provides headroom for complex reasoning
+# - Can reduce to 4096 for faster generation if needed
+

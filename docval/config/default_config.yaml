@@ -1,0 +1,79 @@
+# Model Configuration
+teacher:
+  model_name: "gemini-2.5-pro"  # Default: Gemini 2.5 Pro (thinking model)
+  # Alternatives: gpt-5, claude-4.5-sonnet, gemini-2.5-flash, gpt-4o
+  # Open-source: qwen3-vl-235b-a22b-thinking, llama4-400b-a17b
+  temperature: null  # Set to null for thinking models (2.5 Pro, Qwen3-VL-Thinking)
+                     # Use 0.7 for non-thinking models (Flash, GPT-4o, etc.)
+  max_tokens: 8192  # Output tokens: 8192 recommended, up to 65K possible for Gemini
+                    # Other models: GPT-4o(16K), Claude(8K), Flash(8K)
+
+student:
+  model_name: "google/gemma-3-12b"  # Default: Gemma3-12B (12B params)
+  # Alternatives: google/gemma-3-4b (4B), qwen/qwen3-vl-8b-thinking (8B),
+  # OpenGVLab/internvl3.5-8b (8B), meta-llama/Llama-3.2-11B-Vision (11B),
+  # OpenGVLab/internvl3.5-14b (14B)
+  max_tokens: 8192  # Output tokens: Gemma(8K), Qwen(8K/32K context), 
+                    # InternVL(8K), Llama-3.2(8K output/128K context)
+  sequence_length: 8192  # Total sequence length for training
+  
+detector:
+  model: "db_resnet"  # options: db_resnet, craft, psenet, easyocr
+  inference_time_ms: 50
+  regions_per_doc: 15-20
+
+# VAL Configuration
+val:
+  filter:
+    q_min: 0.85
+    throughput: 50  # examples/sec
+  verifier:
+    throughput: 12  # examples/sec
+  weights:
+    alpha_ans: 0.4
+    alpha_bbox: 0.4
+    alpha_reason: 0.2
+
+# Training Configuration
+training:
+  stage_b1:
+    learning_rate: 2.0e-4
+    batch_size: 32
+    gradient_accumulation: 4
+    epochs: 3
+    warmup_steps: 500
+    weight_decay: 0.01
+    optimizer: "adamw"
+  
+  stage_b2:
+    learning_rate: 2.0e-4
+    batch_size: 32
+    gradient_accumulation: 4
+    epochs_per_iteration: 2
+    max_iterations: 20
+    warmup_steps: 200
+    convergence_window: 3
+    convergence_threshold: 0.2
+
+# Data Configuration
+data:
+  total_examples: 102447
+  filtered_examples: 95000
+  splits:
+    train: 76000  # D3
+    val: 9500     # D4
+    test: 9500    # Dtest
+  datasets:
+    - docvqa
+    - visualmrc
+    - funsd
+    - cord
+    - sroie
+
+# Hardware
+hardware:
+  gpu: "H100-80GB"
+  memory_gb: 80
+  inference_gpu: "RTX-4090"
+  inference_memory_gb: 28
+

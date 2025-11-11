@@ -1,0 +1,331 @@
+[
+  {
+    "image_id": "funsd_82092117",
+    "image_file": "82092117.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82200067_0069",
+    "image_file": "82200067_0069.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82250337_0338",
+    "image_file": "82250337_0338.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82251504",
+    "image_file": "82251504.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82252956_2958",
+    "image_file": "82252956_2958.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82253058_3059",
+    "image_file": "82253058_3059.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82253245_3247",
+    "image_file": "82253245_3247.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82253362_3364",
+    "image_file": "82253362_3364.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82254765",
+    "image_file": "82254765.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82491256",
+    "image_file": "82491256.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82504862",
+    "image_file": "82504862.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82562350",
+    "image_file": "82562350.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82573104",
+    "image_file": "82573104.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_82837252",
+    "image_file": "82837252.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83443897",
+    "image_file": "83443897.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83553333_3334",
+    "image_file": "83553333_3334.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83573282",
+    "image_file": "83573282.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83594639",
+    "image_file": "83594639.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83624198",
+    "image_file": "83624198.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83635935",
+    "image_file": "83635935.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83641919_1921",
+    "image_file": "83641919_1921.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83772145",
+    "image_file": "83772145.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83823750",
+    "image_file": "83823750.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_83996357",
+    "image_file": "83996357.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_85240939",
+    "image_file": "85240939.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86075409_5410",
+    "image_file": "86075409_5410.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86079776_9777",
+    "image_file": "86079776_9777.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86220490",
+    "image_file": "86220490.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86230203_0206",
+    "image_file": "86230203_0206.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86236474_6476",
+    "image_file": "86236474_6476.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86244113",
+    "image_file": "86244113.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86263525",
+    "image_file": "86263525.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_86328049_8050",
+    "image_file": "86328049_8050.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87086073",
+    "image_file": "87086073.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87093315_87093318",
+    "image_file": "87093315_87093318.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87125460",
+    "image_file": "87125460.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87137840",
+    "image_file": "87137840.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87147607",
+    "image_file": "87147607.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87332450",
+    "image_file": "87332450.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87428306",
+    "image_file": "87428306.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87528321",
+    "image_file": "87528321.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87528380",
+    "image_file": "87528380.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_87594142_87594144",
+    "image_file": "87594142_87594144.png",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_89856243",
+    "image_file": "89856243.png",
+    "question": "Who is the sender?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_91814768_91814769",
+    "image_file": "91814768_91814769.png",
+    "question": "What is the document about?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_92380595",
+    "image_file": "92380595.png",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "funsd_93106788",
+    "image_file": "93106788.png",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  }
+]

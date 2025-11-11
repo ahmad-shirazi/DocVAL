@@ -1,0 +1,192 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "visual_mrc",
+  "dataset_size": 6825621487,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/train-00000-of-00005.parquet": {
+      "num_bytes": 269834268,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/train-00001-of-00005.parquet": {
+      "num_bytes": 216434536,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/train-00002-of-00005.parquet": {
+      "num_bytes": 314566158,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/train-00003-of-00005.parquet": {
+      "num_bytes": 458119262,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/train-00004-of-00005.parquet": {
+      "num_bytes": 479468379,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/val-00000-of-00001.parquet": {
+      "num_bytes": 83325335,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/test-00000-of-00004.parquet": {
+      "num_bytes": 107840847,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/test-00001-of-00004.parquet": {
+      "num_bytes": 76379226,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/test-00002-of-00004.parquet": {
+      "num_bytes": 145045694,
+      "checksum": null
+    },
+    "hf://datasets/NTT-hil-insight/VisualMRC@8ca5b61f8495d1b8024b71d6a0b61db97693b122/data/test-00003-of-00004.parquet": {
+      "num_bytes": 120442940,
+      "checksum": null
+    }
+  },
+  "download_size": 2271456645,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "_type": "Image"
+    },
+    "image_filename": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relevant": {
+      "feature": {
+        "dtype": "int64",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "bounding_boxes": {
+      "feature": {
+        "id": {
+          "dtype": "int64",
+          "_type": "Value"
+        },
+        "ocr_info": {
+          "feature": {
+            "bbox": {
+              "height": {
+                "dtype": "int64",
+                "_type": "Value"
+              },
+              "width": {
+                "dtype": "int64",
+                "_type": "Value"
+              },
+              "x": {
+                "dtype": "int64",
+                "_type": "Value"
+              },
+              "y": {
+                "dtype": "int64",
+                "_type": "Value"
+              }
+            },
+            "confidence": {
+              "dtype": "int64",
+              "_type": "Value"
+            },
+            "word": {
+              "dtype": "string",
+              "_type": "Value"
+            }
+          },
+          "_type": "List"
+        },
+        "shape": {
+          "height": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "width": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "x": {
+            "dtype": "int64",
+            "_type": "Value"
+          },
+          "y": {
+            "dtype": "int64",
+            "_type": "Value"
+          }
+        },
+        "structure": {
+          "dtype": "string",
+          "_type": "Value"
+        }
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 9097078132,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5212111326,
+      "num_examples": 21015,
+      "shard_lengths": [
+        2800,
+        2903,
+        3003,
+        2600,
+        1603,
+        1600,
+        1300,
+        1803,
+        1100,
+        1200,
+        1103
+      ],
+      "dataset_name": "visual_mrc"
+    },
+    "val": {
+      "name": "val",
+      "num_bytes": 256906724,
+      "num_examples": 2839,
+      "dataset_name": "visual_mrc"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1356603437,
+      "num_examples": 6708,
+      "shard_lengths": [
+        2977,
+        2154,
+        1577
+      ],
+      "dataset_name": "visual_mrc"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

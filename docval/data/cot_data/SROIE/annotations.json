@@ -1,0 +1,4384 @@
+[
+  {
+    "image_id": "sroie_X00016469612",
+    "image_file": "X00016469612.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469619",
+    "image_file": "X00016469619.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469620",
+    "image_file": "X00016469620.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469622",
+    "image_file": "X00016469622.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469623",
+    "image_file": "X00016469623.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469669",
+    "image_file": "X00016469669.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469672",
+    "image_file": "X00016469672.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X00016469676",
+    "image_file": "X00016469676.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005200938",
+    "image_file": "X51005200938.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005230617",
+    "image_file": "X51005230617.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005255805",
+    "image_file": "X51005255805.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005268200",
+    "image_file": "X51005268200.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005268262",
+    "image_file": "X51005268262.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005268400",
+    "image_file": "X51005268400.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005268472",
+    "image_file": "X51005268472.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005301659",
+    "image_file": "X51005301659.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005301661",
+    "image_file": "X51005301661.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005301667",
+    "image_file": "X51005301667.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005303661",
+    "image_file": "X51005303661.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005306399",
+    "image_file": "X51005306399.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005337872",
+    "image_file": "X51005337872.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361883",
+    "image_file": "X51005361883.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361895",
+    "image_file": "X51005361895.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361897",
+    "image_file": "X51005361897.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361898",
+    "image_file": "X51005361898.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361900",
+    "image_file": "X51005361900.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361907",
+    "image_file": "X51005361907.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361946",
+    "image_file": "X51005361946.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005361950",
+    "image_file": "X51005361950.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005365179",
+    "image_file": "X51005365179.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433492",
+    "image_file": "X51005433492.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433494",
+    "image_file": "X51005433494.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433514",
+    "image_file": "X51005433514.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433522",
+    "image_file": "X51005433522.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433533",
+    "image_file": "X51005433533.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433538",
+    "image_file": "X51005433538.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433541",
+    "image_file": "X51005433541.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433552",
+    "image_file": "X51005433552.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005433553",
+    "image_file": "X51005433553.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005441398",
+    "image_file": "X51005441398.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005441401",
+    "image_file": "X51005441401.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005441402",
+    "image_file": "X51005441402.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005441407",
+    "image_file": "X51005441407.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005441408",
+    "image_file": "X51005441408.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442327",
+    "image_file": "X51005442327.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442333",
+    "image_file": "X51005442333.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442338",
+    "image_file": "X51005442338.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442341",
+    "image_file": "X51005442341.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442344",
+    "image_file": "X51005442344.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442346",
+    "image_file": "X51005442346.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442361",
+    "image_file": "X51005442361.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442376",
+    "image_file": "X51005442376.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442378",
+    "image_file": "X51005442378.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442379",
+    "image_file": "X51005442379.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442383",
+    "image_file": "X51005442383.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442384",
+    "image_file": "X51005442384.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442386",
+    "image_file": "X51005442386.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442392",
+    "image_file": "X51005442392.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442394",
+    "image_file": "X51005442394.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005442397",
+    "image_file": "X51005442397.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005444033",
+    "image_file": "X51005444033.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005444037",
+    "image_file": "X51005444037.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005444045",
+    "image_file": "X51005444045.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447832",
+    "image_file": "X51005447832.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447833",
+    "image_file": "X51005447833.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447839",
+    "image_file": "X51005447839.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447840",
+    "image_file": "X51005447840.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447848",
+    "image_file": "X51005447848.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447850",
+    "image_file": "X51005447850.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447852",
+    "image_file": "X51005447852.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447853",
+    "image_file": "X51005447853.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447860",
+    "image_file": "X51005447860.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005447861",
+    "image_file": "X51005447861.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005453729",
+    "image_file": "X51005453729.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005453801",
+    "image_file": "X51005453801.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005453802",
+    "image_file": "X51005453802.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005453804",
+    "image_file": "X51005453804.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568827",
+    "image_file": "X51005568827.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568829",
+    "image_file": "X51005568829.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568880",
+    "image_file": "X51005568880.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568881",
+    "image_file": "X51005568881.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568884",
+    "image_file": "X51005568884.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568891",
+    "image_file": "X51005568891.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568898",
+    "image_file": "X51005568898.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568899",
+    "image_file": "X51005568899.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568900",
+    "image_file": "X51005568900.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568911",
+    "image_file": "X51005568911.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568913",
+    "image_file": "X51005568913.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005568914",
+    "image_file": "X51005568914.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005577192",
+    "image_file": "X51005577192.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005587254",
+    "image_file": "X51005587254.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005587267",
+    "image_file": "X51005587267.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605284",
+    "image_file": "X51005605284.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605285",
+    "image_file": "X51005605285.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605286",
+    "image_file": "X51005605286.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605333",
+    "image_file": "X51005605333.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605334",
+    "image_file": "X51005605334.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005605335",
+    "image_file": "X51005605335.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663272",
+    "image_file": "X51005663272.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663273",
+    "image_file": "X51005663273.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663276",
+    "image_file": "X51005663276.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663277",
+    "image_file": "X51005663277.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663278",
+    "image_file": "X51005663278.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663279",
+    "image_file": "X51005663279.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663280",
+    "image_file": "X51005663280.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663293",
+    "image_file": "X51005663293.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663297",
+    "image_file": "X51005663297.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663298",
+    "image_file": "X51005663298.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663301",
+    "image_file": "X51005663301.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663311",
+    "image_file": "X51005663311.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663317",
+    "image_file": "X51005663317.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005663324",
+    "image_file": "X51005663324.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005675095",
+    "image_file": "X51005675095.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676536",
+    "image_file": "X51005676536.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676538",
+    "image_file": "X51005676538.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676539",
+    "image_file": "X51005676539.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676540",
+    "image_file": "X51005676540.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676541",
+    "image_file": "X51005676541.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676543",
+    "image_file": "X51005676543.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676544",
+    "image_file": "X51005676544.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676545",
+    "image_file": "X51005676545.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676546",
+    "image_file": "X51005676546.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676547",
+    "image_file": "X51005676547.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005676549",
+    "image_file": "X51005676549.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677328",
+    "image_file": "X51005677328.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677329",
+    "image_file": "X51005677329.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677331",
+    "image_file": "X51005677331.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677332",
+    "image_file": "X51005677332.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677334",
+    "image_file": "X51005677334.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677335",
+    "image_file": "X51005677335.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005677339",
+    "image_file": "X51005677339.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005685355",
+    "image_file": "X51005685355.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005685357",
+    "image_file": "X51005685357.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005705722",
+    "image_file": "X51005705722.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005705760",
+    "image_file": "X51005705760.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005705804",
+    "image_file": "X51005705804.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711401",
+    "image_file": "X51005711401.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711403",
+    "image_file": "X51005711403.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711404",
+    "image_file": "X51005711404.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711441",
+    "image_file": "X51005711441.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711442",
+    "image_file": "X51005711442.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711445",
+    "image_file": "X51005711445.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711447",
+    "image_file": "X51005711447.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711451",
+    "image_file": "X51005711451.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711452",
+    "image_file": "X51005711452.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711453",
+    "image_file": "X51005711453.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711454",
+    "image_file": "X51005711454.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005711456",
+    "image_file": "X51005711456.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005712017",
+    "image_file": "X51005712017.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005712021",
+    "image_file": "X51005712021.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005712038",
+    "image_file": "X51005712038.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005712039",
+    "image_file": "X51005712039.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005715010",
+    "image_file": "X51005715010.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005715451",
+    "image_file": "X51005715451.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005715456",
+    "image_file": "X51005715456.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005717526",
+    "image_file": "X51005717526.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719814",
+    "image_file": "X51005719814.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719856",
+    "image_file": "X51005719856.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719862",
+    "image_file": "X51005719862.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719864",
+    "image_file": "X51005719864.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719873",
+    "image_file": "X51005719873.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719874",
+    "image_file": "X51005719874.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719882",
+    "image_file": "X51005719882.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719883",
+    "image_file": "X51005719883.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719886",
+    "image_file": "X51005719886.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719893",
+    "image_file": "X51005719893.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719896",
+    "image_file": "X51005719896.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719899",
+    "image_file": "X51005719899.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719902",
+    "image_file": "X51005719902.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719904",
+    "image_file": "X51005719904.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719906",
+    "image_file": "X51005719906.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719912",
+    "image_file": "X51005719912.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719914",
+    "image_file": "X51005719914.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005719917",
+    "image_file": "X51005719917.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005722668",
+    "image_file": "X51005722668.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005722699",
+    "image_file": "X51005722699.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005724554",
+    "image_file": "X51005724554.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005724621",
+    "image_file": "X51005724621.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005724627",
+    "image_file": "X51005724627.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005724629",
+    "image_file": "X51005724629.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005741944",
+    "image_file": "X51005741944.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005742068",
+    "image_file": "X51005742068.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745183",
+    "image_file": "X51005745183.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745187",
+    "image_file": "X51005745187.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745188",
+    "image_file": "X51005745188.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745190",
+    "image_file": "X51005745190.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745214",
+    "image_file": "X51005745214.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745249",
+    "image_file": "X51005745249.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005745296",
+    "image_file": "X51005745296.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005746140",
+    "image_file": "X51005746140.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005749895",
+    "image_file": "X51005749895.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005749905",
+    "image_file": "X51005749905.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005749912",
+    "image_file": "X51005749912.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757199",
+    "image_file": "X51005757199.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757201",
+    "image_file": "X51005757201.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757235",
+    "image_file": "X51005757235.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757243",
+    "image_file": "X51005757243.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757248",
+    "image_file": "X51005757248.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757273",
+    "image_file": "X51005757273.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757286",
+    "image_file": "X51005757286.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757290",
+    "image_file": "X51005757290.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757294",
+    "image_file": "X51005757294.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757304",
+    "image_file": "X51005757304.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757323",
+    "image_file": "X51005757323.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757324",
+    "image_file": "X51005757324.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757346",
+    "image_file": "X51005757346.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757349",
+    "image_file": "X51005757349.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757351",
+    "image_file": "X51005757351.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005757353",
+    "image_file": "X51005757353.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005763940",
+    "image_file": "X51005763940.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806678",
+    "image_file": "X51005806678.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806679",
+    "image_file": "X51005806679.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806685",
+    "image_file": "X51005806685.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806698",
+    "image_file": "X51005806698.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806702",
+    "image_file": "X51005806702.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806703",
+    "image_file": "X51005806703.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005806716",
+    "image_file": "X51005806716.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51005889296",
+    "image_file": "X51005889296.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008057",
+    "image_file": "X51006008057.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008073",
+    "image_file": "X51006008073.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008074",
+    "image_file": "X51006008074.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008086",
+    "image_file": "X51006008086.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008089",
+    "image_file": "X51006008089.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008091",
+    "image_file": "X51006008091.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008095",
+    "image_file": "X51006008095.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006008197",
+    "image_file": "X51006008197.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311758",
+    "image_file": "X51006311758.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311764",
+    "image_file": "X51006311764.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311767",
+    "image_file": "X51006311767.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311778",
+    "image_file": "X51006311778.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311779",
+    "image_file": "X51006311779.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006311780",
+    "image_file": "X51006311780.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006327976",
+    "image_file": "X51006327976.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006327978",
+    "image_file": "X51006327978.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006328913",
+    "image_file": "X51006328913.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006328919",
+    "image_file": "X51006328919.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006328920",
+    "image_file": "X51006328920.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006329395",
+    "image_file": "X51006329395.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006329399",
+    "image_file": "X51006329399.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006329402",
+    "image_file": "X51006329402.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006332575",
+    "image_file": "X51006332575.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006332649",
+    "image_file": "X51006332649.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006334699",
+    "image_file": "X51006334699.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006334741",
+    "image_file": "X51006334741.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006334926",
+    "image_file": "X51006334926.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006335314",
+    "image_file": "X51006335314.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006335547",
+    "image_file": "X51006335547.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006335552",
+    "image_file": "X51006335552.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006349086",
+    "image_file": "X51006349086.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006350750",
+    "image_file": "X51006350750.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006350763",
+    "image_file": "X51006350763.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387740",
+    "image_file": "X51006387740.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387812",
+    "image_file": "X51006387812.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387813",
+    "image_file": "X51006387813.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387847",
+    "image_file": "X51006387847.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387850",
+    "image_file": "X51006387850.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387932",
+    "image_file": "X51006387932.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387951",
+    "image_file": "X51006387951.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387953",
+    "image_file": "X51006387953.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006387971",
+    "image_file": "X51006387971.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388044",
+    "image_file": "X51006388044.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388064",
+    "image_file": "X51006388064.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388065",
+    "image_file": "X51006388065.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388066",
+    "image_file": "X51006388066.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388069",
+    "image_file": "X51006388069.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006388082",
+    "image_file": "X51006388082.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006389865",
+    "image_file": "X51006389865.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006389884",
+    "image_file": "X51006389884.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006389888",
+    "image_file": "X51006389888.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006389893",
+    "image_file": "X51006389893.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006389963",
+    "image_file": "X51006389963.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006392122",
+    "image_file": "X51006392122.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006392273",
+    "image_file": "X51006392273.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006392299",
+    "image_file": "X51006392299.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006392313",
+    "image_file": "X51006392313.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006393376",
+    "image_file": "X51006393376.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006393377",
+    "image_file": "X51006393377.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006401723",
+    "image_file": "X51006401723.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006401836",
+    "image_file": "X51006401836.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006401869",
+    "image_file": "X51006401869.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006401978",
+    "image_file": "X51006401978.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414392",
+    "image_file": "X51006414392.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414394",
+    "image_file": "X51006414394.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414429",
+    "image_file": "X51006414429.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414431",
+    "image_file": "X51006414431.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414470",
+    "image_file": "X51006414470.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414483",
+    "image_file": "X51006414483.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414485",
+    "image_file": "X51006414485.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414519",
+    "image_file": "X51006414519.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414533",
+    "image_file": "X51006414533.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414599",
+    "image_file": "X51006414599.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414631",
+    "image_file": "X51006414631.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414633",
+    "image_file": "X51006414633.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414636",
+    "image_file": "X51006414636.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414638",
+    "image_file": "X51006414638.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414671",
+    "image_file": "X51006414671.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414674",
+    "image_file": "X51006414674.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414675",
+    "image_file": "X51006414675.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414677",
+    "image_file": "X51006414677.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414679",
+    "image_file": "X51006414679.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414680",
+    "image_file": "X51006414680.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414700",
+    "image_file": "X51006414700.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414703",
+    "image_file": "X51006414703.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414711",
+    "image_file": "X51006414711.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414712",
+    "image_file": "X51006414712.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414713",
+    "image_file": "X51006414713.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414714",
+    "image_file": "X51006414714.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414718",
+    "image_file": "X51006414718.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414719",
+    "image_file": "X51006414719.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414720",
+    "image_file": "X51006414720.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414721",
+    "image_file": "X51006414721.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006414733",
+    "image_file": "X51006414733.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006441473",
+    "image_file": "X51006441473.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006441474",
+    "image_file": "X51006441474.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466055",
+    "image_file": "X51006466055.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466056",
+    "image_file": "X51006466056.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466060",
+    "image_file": "X51006466060.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466062",
+    "image_file": "X51006466062.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466065",
+    "image_file": "X51006466065.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466066",
+    "image_file": "X51006466066.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006466778",
+    "image_file": "X51006466778.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006502529",
+    "image_file": "X51006502529.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006502531",
+    "image_file": "X51006502531.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006502533",
+    "image_file": "X51006502533.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006554833",
+    "image_file": "X51006554833.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555072",
+    "image_file": "X51006555072.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555125",
+    "image_file": "X51006555125.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555570",
+    "image_file": "X51006555570.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555780",
+    "image_file": "X51006555780.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555784",
+    "image_file": "X51006555784.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555806",
+    "image_file": "X51006555806.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555814",
+    "image_file": "X51006555814.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555817",
+    "image_file": "X51006555817.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006555818",
+    "image_file": "X51006555818.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556591",
+    "image_file": "X51006556591.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556596",
+    "image_file": "X51006556596.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556604",
+    "image_file": "X51006556604.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556646",
+    "image_file": "X51006556646.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556650",
+    "image_file": "X51006556650.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556656",
+    "image_file": "X51006556656.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556726",
+    "image_file": "X51006556726.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556730",
+    "image_file": "X51006556730.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556732",
+    "image_file": "X51006556732.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556738",
+    "image_file": "X51006556738.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556815",
+    "image_file": "X51006556815.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556818",
+    "image_file": "X51006556818.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556823",
+    "image_file": "X51006556823.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556824",
+    "image_file": "X51006556824.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556825",
+    "image_file": "X51006556825.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556828",
+    "image_file": "X51006556828.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556830",
+    "image_file": "X51006556830.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556831",
+    "image_file": "X51006556831.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556838",
+    "image_file": "X51006556838.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556839",
+    "image_file": "X51006556839.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556840",
+    "image_file": "X51006556840.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556841",
+    "image_file": "X51006556841.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556852",
+    "image_file": "X51006556852.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006556861",
+    "image_file": "X51006556861.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557117",
+    "image_file": "X51006557117.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557119",
+    "image_file": "X51006557119.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557161",
+    "image_file": "X51006557161.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557164",
+    "image_file": "X51006557164.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557168",
+    "image_file": "X51006557168.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557170",
+    "image_file": "X51006557170.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557178",
+    "image_file": "X51006557178.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557179",
+    "image_file": "X51006557179.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557184",
+    "image_file": "X51006557184.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557185",
+    "image_file": "X51006557185.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557188",
+    "image_file": "X51006557188.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557193",
+    "image_file": "X51006557193.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557195",
+    "image_file": "X51006557195.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557198",
+    "image_file": "X51006557198.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557199",
+    "image_file": "X51006557199.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557202",
+    "image_file": "X51006557202.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557210",
+    "image_file": "X51006557210.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557213",
+    "image_file": "X51006557213.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006557508",
+    "image_file": "X51006557508.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619341",
+    "image_file": "X51006619341.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619342",
+    "image_file": "X51006619342.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619343",
+    "image_file": "X51006619343.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619496",
+    "image_file": "X51006619496.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619545",
+    "image_file": "X51006619545.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619550",
+    "image_file": "X51006619550.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619561",
+    "image_file": "X51006619561.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619563",
+    "image_file": "X51006619563.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619566",
+    "image_file": "X51006619566.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619694",
+    "image_file": "X51006619694.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619696",
+    "image_file": "X51006619696.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619697",
+    "image_file": "X51006619697.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619698",
+    "image_file": "X51006619698.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619709",
+    "image_file": "X51006619709.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619758",
+    "image_file": "X51006619758.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619765",
+    "image_file": "X51006619765.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619772",
+    "image_file": "X51006619772.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619777",
+    "image_file": "X51006619777.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619780",
+    "image_file": "X51006619780.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619783",
+    "image_file": "X51006619783.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619785",
+    "image_file": "X51006619785.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619854",
+    "image_file": "X51006619854.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006619862",
+    "image_file": "X51006619862.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620161",
+    "image_file": "X51006620161.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620176",
+    "image_file": "X51006620176.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620181",
+    "image_file": "X51006620181.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620186",
+    "image_file": "X51006620186.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620187",
+    "image_file": "X51006620187.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620189",
+    "image_file": "X51006620189.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620190",
+    "image_file": "X51006620190.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620191",
+    "image_file": "X51006620191.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006620414",
+    "image_file": "X51006620414.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006647932",
+    "image_file": "X51006647932.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006679216",
+    "image_file": "X51006679216.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006679222",
+    "image_file": "X51006679222.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006713996",
+    "image_file": "X51006713996.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006714065",
+    "image_file": "X51006714065.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006733494",
+    "image_file": "X51006733494.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006828217",
+    "image_file": "X51006828217.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006856981",
+    "image_file": "X51006856981.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006857071",
+    "image_file": "X51006857071.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006857265",
+    "image_file": "X51006857265.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006857660",
+    "image_file": "X51006857660.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006867435",
+    "image_file": "X51006867435.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006867436",
+    "image_file": "X51006867436.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006882603",
+    "image_file": "X51006882603.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006912960",
+    "image_file": "X51006912960.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006912972",
+    "image_file": "X51006912972.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006912974",
+    "image_file": "X51006912974.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913007",
+    "image_file": "X51006913007.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913019",
+    "image_file": "X51006913019.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913023",
+    "image_file": "X51006913023.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913024",
+    "image_file": "X51006913024.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913028",
+    "image_file": "X51006913028.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913030",
+    "image_file": "X51006913030.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913031",
+    "image_file": "X51006913031.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913051",
+    "image_file": "X51006913051.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913054",
+    "image_file": "X51006913054.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913055",
+    "image_file": "X51006913055.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913059",
+    "image_file": "X51006913059.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913068",
+    "image_file": "X51006913068.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913070",
+    "image_file": "X51006913070.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913073",
+    "image_file": "X51006913073.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51006913074",
+    "image_file": "X51006913074.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103578",
+    "image_file": "X51007103578.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103599",
+    "image_file": "X51007103599.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103639",
+    "image_file": "X51007103639.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103641",
+    "image_file": "X51007103641.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103643",
+    "image_file": "X51007103643.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103675",
+    "image_file": "X51007103675.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103681",
+    "image_file": "X51007103681.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103688",
+    "image_file": "X51007103688.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103691",
+    "image_file": "X51007103691.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103692",
+    "image_file": "X51007103692.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007103702",
+    "image_file": "X51007103702.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007135037",
+    "image_file": "X51007135037.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007135247",
+    "image_file": "X51007135247.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007225398",
+    "image_file": "X51007225398.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007225399",
+    "image_file": "X51007225399.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007225417",
+    "image_file": "X51007225417.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007225442",
+    "image_file": "X51007225442.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007228448",
+    "image_file": "X51007228448.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231336",
+    "image_file": "X51007231336.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231338",
+    "image_file": "X51007231338.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231344",
+    "image_file": "X51007231344.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231361",
+    "image_file": "X51007231361.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231365",
+    "image_file": "X51007231365.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231370",
+    "image_file": "X51007231370.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007231374",
+    "image_file": "X51007231374.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007262315",
+    "image_file": "X51007262315.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007262328",
+    "image_file": "X51007262328.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007262330",
+    "image_file": "X51007262330.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339094",
+    "image_file": "X51007339094.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339095",
+    "image_file": "X51007339095.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339097",
+    "image_file": "X51007339097.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339098",
+    "image_file": "X51007339098.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339100",
+    "image_file": "X51007339100.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339106",
+    "image_file": "X51007339106.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339107",
+    "image_file": "X51007339107.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339110",
+    "image_file": "X51007339110.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339111",
+    "image_file": "X51007339111.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339112",
+    "image_file": "X51007339112.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339113",
+    "image_file": "X51007339113.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339114",
+    "image_file": "X51007339114.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339115",
+    "image_file": "X51007339115.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339117",
+    "image_file": "X51007339117.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339118",
+    "image_file": "X51007339118.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339120",
+    "image_file": "X51007339120.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339126",
+    "image_file": "X51007339126.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339130",
+    "image_file": "X51007339130.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339131",
+    "image_file": "X51007339131.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339132",
+    "image_file": "X51007339132.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339133",
+    "image_file": "X51007339133.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339135",
+    "image_file": "X51007339135.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339136",
+    "image_file": "X51007339136.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339139",
+    "image_file": "X51007339139.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339146",
+    "image_file": "X51007339146.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339150",
+    "image_file": "X51007339150.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339151",
+    "image_file": "X51007339151.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339152",
+    "image_file": "X51007339152.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339156",
+    "image_file": "X51007339156.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339157",
+    "image_file": "X51007339157.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339158",
+    "image_file": "X51007339158.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339162",
+    "image_file": "X51007339162.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339164",
+    "image_file": "X51007339164.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339165",
+    "image_file": "X51007339165.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339166",
+    "image_file": "X51007339166.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339167",
+    "image_file": "X51007339167.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339639",
+    "image_file": "X51007339639.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339642",
+    "image_file": "X51007339642.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339643",
+    "image_file": "X51007339643.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339647",
+    "image_file": "X51007339647.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339648",
+    "image_file": "X51007339648.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339650",
+    "image_file": "X51007339650.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339651",
+    "image_file": "X51007339651.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339653",
+    "image_file": "X51007339653.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339656",
+    "image_file": "X51007339656.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339657",
+    "image_file": "X51007339657.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007339658",
+    "image_file": "X51007339658.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007391372",
+    "image_file": "X51007391372.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007419197",
+    "image_file": "X51007419197.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007579726",
+    "image_file": "X51007579726.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007843145",
+    "image_file": "X51007843145.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846269",
+    "image_file": "X51007846269.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846270",
+    "image_file": "X51007846270.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846286",
+    "image_file": "X51007846286.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846301",
+    "image_file": "X51007846301.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846302",
+    "image_file": "X51007846302.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846305",
+    "image_file": "X51007846305.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846307",
+    "image_file": "X51007846307.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846309",
+    "image_file": "X51007846309.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846325",
+    "image_file": "X51007846325.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846326",
+    "image_file": "X51007846326.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846350",
+    "image_file": "X51007846350.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846353",
+    "image_file": "X51007846353.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846357",
+    "image_file": "X51007846357.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846366",
+    "image_file": "X51007846366.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846368",
+    "image_file": "X51007846368.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846370",
+    "image_file": "X51007846370.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846388",
+    "image_file": "X51007846388.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846391",
+    "image_file": "X51007846391.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846393",
+    "image_file": "X51007846393.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846395",
+    "image_file": "X51007846395.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846398",
+    "image_file": "X51007846398.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846410",
+    "image_file": "X51007846410.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846412",
+    "image_file": "X51007846412.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51007846451",
+    "image_file": "X51007846451.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008030560",
+    "image_file": "X51008030560.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008030565",
+    "image_file": "X51008030565.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008030566",
+    "image_file": "X51008030566.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042777",
+    "image_file": "X51008042777.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042778",
+    "image_file": "X51008042778.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042782",
+    "image_file": "X51008042782.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042783",
+    "image_file": "X51008042783.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042791",
+    "image_file": "X51008042791.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042792",
+    "image_file": "X51008042792.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008042793",
+    "image_file": "X51008042793.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008063849",
+    "image_file": "X51008063849.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008064061",
+    "image_file": "X51008064061.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099041",
+    "image_file": "X51008099041.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099043",
+    "image_file": "X51008099043.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099044",
+    "image_file": "X51008099044.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099046",
+    "image_file": "X51008099046.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099048",
+    "image_file": "X51008099048.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099049",
+    "image_file": "X51008099049.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099054",
+    "image_file": "X51008099054.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099071",
+    "image_file": "X51008099071.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099073",
+    "image_file": "X51008099073.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099081",
+    "image_file": "X51008099081.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099083",
+    "image_file": "X51008099083.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099084",
+    "image_file": "X51008099084.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099085",
+    "image_file": "X51008099085.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099087",
+    "image_file": "X51008099087.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099089",
+    "image_file": "X51008099089.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008099102",
+    "image_file": "X51008099102.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114216",
+    "image_file": "X51008114216.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114217",
+    "image_file": "X51008114217.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114260",
+    "image_file": "X51008114260.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114262",
+    "image_file": "X51008114262.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114266",
+    "image_file": "X51008114266.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114281",
+    "image_file": "X51008114281.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114282",
+    "image_file": "X51008114282.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114283",
+    "image_file": "X51008114283.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114284",
+    "image_file": "X51008114284.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008114321",
+    "image_file": "X51008114321.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008122920",
+    "image_file": "X51008122920.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123446",
+    "image_file": "X51008123446.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123447",
+    "image_file": "X51008123447.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123450",
+    "image_file": "X51008123450.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123451",
+    "image_file": "X51008123451.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123476",
+    "image_file": "X51008123476.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123580",
+    "image_file": "X51008123580.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123586",
+    "image_file": "X51008123586.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123599",
+    "image_file": "X51008123599.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008123604",
+    "image_file": "X51008123604.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008128052",
+    "image_file": "X51008128052.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008128062",
+    "image_file": "X51008128062.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008128065",
+    "image_file": "X51008128065.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142005",
+    "image_file": "X51008142005.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142030",
+    "image_file": "X51008142030.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142031",
+    "image_file": "X51008142031.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142032",
+    "image_file": "X51008142032.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142033",
+    "image_file": "X51008142033.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142034",
+    "image_file": "X51008142034.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142038",
+    "image_file": "X51008142038.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142058",
+    "image_file": "X51008142058.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142059",
+    "image_file": "X51008142059.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142060",
+    "image_file": "X51008142060.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142061",
+    "image_file": "X51008142061.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142062",
+    "image_file": "X51008142062.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142063",
+    "image_file": "X51008142063.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142065",
+    "image_file": "X51008142065.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008142068",
+    "image_file": "X51008142068.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008145450",
+    "image_file": "X51008145450.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008145504",
+    "image_file": "X51008145504.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008145505",
+    "image_file": "X51008145505.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164420",
+    "image_file": "X51008164420.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164510",
+    "image_file": "X51008164510.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164524",
+    "image_file": "X51008164524.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164525",
+    "image_file": "X51008164525.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164969",
+    "image_file": "X51008164969.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164991",
+    "image_file": "X51008164991.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164992",
+    "image_file": "X51008164992.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164996",
+    "image_file": "X51008164996.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164997",
+    "image_file": "X51008164997.jpg",
+    "question": "What is the total amount?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164998",
+    "image_file": "X51008164998.jpg",
+    "question": "What is the date?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51008164999",
+    "image_file": "X51008164999.jpg",
+    "question": "What is the address?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51009453801",
+    "image_file": "X51009453801.jpg",
+    "question": "What is the receipt number?",
+    "answer": "",
+    "bbox": null
+  },
+  {
+    "image_id": "sroie_X51009453804",
+    "image_file": "X51009453804.jpg",
+    "question": "What is the company name?",
+    "answer": "",
+    "bbox": null
+  }
+]
