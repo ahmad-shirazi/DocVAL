@@ -10,7 +10,7 @@ DocVAL distills knowledge from large teacher VLMs (Gemini 2.5 Pro) into compact 
 - Explain reasoning with Chain-of-Thought
 - Run efficiently without OCR at inference
 
-![DocVAL Architecture](imgs/docval_arc.png)
+![DocVAL Architecture](imgs/docvalarc.png)
 
 *DocVAL's three-phase pipeline: Teacher data generation with VAL filtering (Phase A), two-stage student training (Phase B), and pure VLM inference deployment (Phase C).*
 
