@@ -51,6 +51,31 @@ python -m docval.training.train_b1_mac_full
 python -m docval.scripts.run_phase_c_mac
 ```
 
+## Dataset & Pretrained Data
+
+All datasets and generated CoT data are available for the community:
+
+**🔗 [Download from Google Drive](https://drive.google.com/drive/folders/1PxWmr-5XGsGVKXWFkUKc3j8ptACLhjQn?usp=sharing)**
+
+### Available Files
+
+**Datasets** (raw):
+- CORD - Receipts
+- DocVQA - Documents  
+- FUNSD - Forms
+- SROIE - Receipts
+- VisualMRC - Web screenshots
+
+**Generated CoT Data**:
+- `cot_cord.json` (300 KB)
+- `cot_docvqa.json` (71.1 MB)
+- `cot_funsd.json` (628 KB)
+- `cot_sroie.json` (8.2 MB)
+- `cot_visualmrc.json` (21.3 MB)
+- `cot_merged_all.json` (100.3 MB) - All datasets merged
+
+You can use these pre-generated files to skip Phase A and directly start training!
+
 ## Project Structure
 
 ```
